@@ -1,0 +1,19 @@
+{
+  "name": "gdscdtc",
+  "version": "1.0.0",
+  "description": "This is repo for GDSC-DTC Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya1-coder/gdscdtc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanya1-coder/gdscdtc/issues"
+  },
+  "homepage": "https://github.com/chaitanya1-coder/gdscdtc#readme"
+}
