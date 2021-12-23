@@ -1,17 +1,57 @@
 #aboutus{
-	background-color: rgb(219, 194, 24);
+	background-color: #fabb05;
 	margin-top: 0;
+	padding: 5%;
+	display: flex;
+}
+
+.left{
+	flex-basis: 100%;
+}
+
+.aboutush2{
+	border-left: 20px solid #4285f4;
+  background-color: #f8f9fa;
+  text-align: center;
+  color: #e94235;
+}
+
+.aboutusp{
+	background-color: #34a853;
+	color: white;
+	margin-top: 2%;
+	border-radius: 20px;
+	padding: 5%;
+	font-weight: bold;
+	font-size: larger;
+}
+
+.btnjoin{
+	margin-top: 2%;
+  width: 100%;
+  font-size: larger;
+  font-weight: bold;
+  border: 2px dashed;
+  border-radius: 10px;
+}
+.aboutussocial > h2{
+	margin: 25px 0 15px 0;
+  color: darkblue;
+	font-weight: 800;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 40px;
 }
 
 .aboutussocial span .social a {
 	display: inline-block;
-	width: 46px;
-	height: 46px;
+	width: 60px;
+	height: 60px;
 	text-align: center;
-	padding-top: 0.3cm;
-	background: #ffbe00;
+	padding-top: 0.45cm;
+	background: #34a853;
 	color: #fff;
-	margin: 0 10px 0 10px;
+	margin: 0 43px 0 43px;
 	text-decoration: none;
 	border-radius: 50%;
 	transition: 0.5s;
@@ -21,32 +61,32 @@
 }
 
 .aboutussocial span .social a:nth-child(1):hover {
-	color: #047483;
-	box-shadow: 0 0 15px #1da1f2;
-	text-shadow: 0 0 15px #1da1f2;
+	color: #04fff7;
+	box-shadow: 0 0 30px #1da1f2;
+	text-shadow: 0 0 30px #1da1f2;
 }
 .aboutussocial span .social a:nth-child(2):hover {
-	color: #8b002e;
-	box-shadow: 0 0 15px #e1306c;
-	text-shadow: 0 0 15px #e1306c;
+	color: #000000;
+	box-shadow: 0 0 30px #e1306c;
+	text-shadow: 0 0 30px #e1306c;
 }
 .aboutussocial span .social a:nth-child(3):hover {
-	color: #2a6cbb;
-	box-shadow: 0 0 15px #ffbe00;
-	text-shadow: 0 0 15px #ffbe00;
+	color: #0021ff;
+	box-shadow: 0 0 30px #0047ff;
+	text-shadow: 0 0 30px #0047ff;
 }
 .aboutussocial span .social a:nth-child(4):hover {
-	color: rgb(14, 112, 22);
-	box-shadow: 0 0 15px rgb(241, 26, 26);
-	text-shadow: 0 0 15px rgb(241, 26, 26);
+	color: rgb(255, 0, 0);
+	box-shadow: 0 0 30px rgb(241, 26, 26);
+	text-shadow: 0 0 30px rgb(241, 26, 26);
 }
 .aboutussocial span .social a:nth-child(5):hover {
-	color: rgb(5, 11, 90);
-	box-shadow: 0 0 15px rgb(21, 143, 243);
-	text-shadow: 0 0 15px rgb(21, 143, 243);
+	color: rgb(152, 23, 104);
+	box-shadow: 0 0 30px rgb(255, 0, 222);
+	text-shadow: 0 0 30px rgb(255, 0, 222);
 }
-.aboutussocial span .social a:nth-child(6):hover {
-	color: rgb(0, 0, 0);
-	box-shadow: 0 0 15px rgb(255, 153, 0);
-	text-shadow: 0 0 15px rgb(255, 153, 0);
+
+
+.abtusimg{
+	width: 50%;
 }
