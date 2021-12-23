@@ -1,0 +1,52 @@
+#aboutus{
+	background-color: rgb(219, 194, 24);
+	margin-top: 0;
+}
+
+.aboutussocial span .social a {
+	display: inline-block;
+	width: 46px;
+	height: 46px;
+	text-align: center;
+	padding-top: 0.3cm;
+	background: #ffbe00;
+	color: #fff;
+	margin: 0 10px 0 10px;
+	text-decoration: none;
+	border-radius: 50%;
+	transition: 0.5s;
+}
+.aboutussocial span .social a .fa {
+	line-height: 46px;
+}
+
+.aboutussocial span .social a:nth-child(1):hover {
+	color: #047483;
+	box-shadow: 0 0 15px #1da1f2;
+	text-shadow: 0 0 15px #1da1f2;
+}
+.aboutussocial span .social a:nth-child(2):hover {
+	color: #8b002e;
+	box-shadow: 0 0 15px #e1306c;
+	text-shadow: 0 0 15px #e1306c;
+}
+.aboutussocial span .social a:nth-child(3):hover {
+	color: #2a6cbb;
+	box-shadow: 0 0 15px #ffbe00;
+	text-shadow: 0 0 15px #ffbe00;
+}
+.aboutussocial span .social a:nth-child(4):hover {
+	color: rgb(14, 112, 22);
+	box-shadow: 0 0 15px rgb(241, 26, 26);
+	text-shadow: 0 0 15px rgb(241, 26, 26);
+}
+.aboutussocial span .social a:nth-child(5):hover {
+	color: rgb(5, 11, 90);
+	box-shadow: 0 0 15px rgb(21, 143, 243);
+	text-shadow: 0 0 15px rgb(21, 143, 243);
+}
+.aboutussocial span .social a:nth-child(6):hover {
+	color: rgb(0, 0, 0);
+	box-shadow: 0 0 15px rgb(255, 153, 0);
+	text-shadow: 0 0 15px rgb(255, 153, 0);
+}
