@@ -45,17 +45,18 @@
 
 .aboutussocial span .social a {
 	display: inline-block;
-	width: 60px;
-	height: 60px;
-	text-align: center;
-	padding-top: 0.45cm;
-	background: #34a853;
-	color: #fff;
-	margin: 0 43px 0 43px;
-	text-decoration: none;
-	border-radius: 50%;
-	transition: 0.5s;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  padding-top: 0.5cm;
+  background: #34a853;
+  color: #fff;
+  margin: 0 38px 0 38px;
+  text-decoration: none;
+  border-radius: 50%;
+  transition: 0.5s;
 }
+
 .aboutussocial span .social a .fa {
 	line-height: 46px;
 }
@@ -86,7 +87,22 @@
 	text-shadow: 0 0 30px rgb(255, 0, 222);
 }
 
-
 .abtusimg{
-	width: 50%;
+	width: 100%;
+  padding-left: 12%;
+}
+
+.aboutusimages{
+	border: 2px solid;
+	margin: 15% 0 0 10%;
+  display: flex;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.aboutusimages > i{
+	padding: 3% 2%;
 }

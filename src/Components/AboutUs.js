@@ -18,11 +18,11 @@ export const AboutUs = () => {
             <h2>Socials</h2>
             <span>
               <div class="social">
-                <a href="mailto:" target="_blank"><i class="fas fa-at" aria-hidden="true"></i></a>
-                <a href="tel:"><i class="fas fa-mobile-alt" aria-hidden="true"></i></a>
-                <a href="https://www.linkedin.com/in/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
-                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                <a href="mailto:" target="_blank"><i class="fas fa-at fa-2x" aria-hidden="true"></i></a>
+                <a href="tel:"><i class="fas fa-mobile-alt fa-2x" aria-hidden="true"></i></a>
+                <a href="https://www.linkedin.com/in/" target="_blank"><i class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x" aria-hidden="true"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram fa-2x" aria-hidden="true"></i></a>
               </div>
             </span>
           </div>
@@ -32,14 +32,15 @@ export const AboutUs = () => {
             <img class="abtusimg" src="\images\compimg.png" alt="computerimageimg"></img>
           </div>
           <div class="aboutusimages">
-            <i class="fab fa-java"></i>
-            <i class="fab fa-js-square"></i>
-            <i class="fab fa-html5"></i>
-            <i class="fab fa-css3-alt"></i>
-            <i class="fab fa-android"></i>
-            <i class="fab fa-python"></i>
-            <i class="fab fa-react"></i>
-            <i class="fab fa-git"></i>
+            <i class="fab fa-java fa-5x"></i>
+            <i class="fab fa-js-square fa-5x"></i>
+            <i class="fab fa-html5 fa-5x"></i>
+            <i class="fab fa-css3-alt fa-5x"></i>
+            <i class="fab fa-android fa-5x"></i>
+            <i class="fab fa-python fa-5x"></i>
+            <i class="fab fa-react fa-5x"></i>
+            <i class="fab fa-git fa-5x"></i>
+            <i class="fab fa-node-js fa-5x"></i>
           </div>
         </div>
       </div>
