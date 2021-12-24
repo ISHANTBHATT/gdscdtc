@@ -1,14 +1,32 @@
 #aim{
-	background-color: rgb(193, 128, 19);
+	background-color: #34a853;
+	color: white;
 	margin-bottom: 0;
 	display: flex;
 	padding: 5%;
 }
+
 .aimimggif{
 	height: auto;
 	width: 100%;
 }
 
 .aimcontent{
-	padding: 2%;
+	padding-left: 10%;
+	flex-basis: 125%;
+}
+
+.aimh1{
+	border-left: 20px solid #e94235;
+  background-color: #f8f9fa;
+  text-align: center;
+  color: #4285f4;
+}
+
+.aimp{
+	background-color: #fabb05;
+	margin-top: 2%;
+	border-radius: 20px;
+	padding: 5%;
+	font: italic bold 26px Georgia, serif;
 }

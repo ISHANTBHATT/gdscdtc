@@ -13,9 +13,7 @@ export const Aim = () => {
           </div>
           <div class="aimp">
             <p>
-              We think slightly out of the box, we believe
-              that a club's resources must not only be channeled into conducting
-              events but also to propagate learning and teaching , symbiotically.
+              We think slightly out of the box, we believe that a club's resources must not only be channeled into conducting events but also to propagate learning and teaching , symbiotically.
             </p>
           </div>
         </div>

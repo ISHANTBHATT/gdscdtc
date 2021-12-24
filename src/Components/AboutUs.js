@@ -5,13 +5,15 @@ export const AboutUs = () => {
     <>
       <div id="aboutus">
         <div class="left">
-          <div class="aboutush3p">
-            <h3>About Us</h3>
+          <div class="aboutush2">
+            <h2>About Us</h2>
+          </div>
+          <div class="aboutusp">
             <p>
               GOOGLE DEVELOPER STUDENT CLUBS ARE UNIVERSITY BASED COMMUNITY GROUPS FOR STUDENTS INTERSTED IN GOOGLE DEVELOPER TECHNOLOGIES.STUDENTS FROM ALL UNDERGRADUATE OR GRADUATE PROGRAMS WITH AN INTEREST IN GROWING AS DEVELOPER ARE WELCOME BY JOINING A GDSC, STUDENTS GROW THEIR KNOWLEDGE IN A PEER-TO-PEER LEARNING ENVIRONMENT AND BUILD SOLUTIONS FOR LOCAL BUSINESSES AND THEIR COMMUNITY.
             </p>
           </div>
-          <button type="button" class="btn btn-danger" name="button">Join Us</button>
+          <button type="button" class="btn btn-danger btnjoin" name="button">Join Us</button>
           <div class="aboutussocial">
             <h2>Socials</h2>
             <span>
@@ -27,7 +29,7 @@ export const AboutUs = () => {
         </div>
         <div class="right">
           <div class="aboutusimg">
-            <img src="\images\compimg.png" alt="computerimageimg"></img>
+            <img class="abtusimg" src="\images\compimg.png" alt="computerimageimg"></img>
           </div>
           <div class="aboutusimages">
             <i class="fab fa-java"></i>
